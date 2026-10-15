@@ -1,0 +1,6 @@
+{
+	"title": "Heist Flock",
+	"type": "ServerContent",
+	"tags": ["roleplay", "fun"],
+	"ignore": ["*.psd", "*.txt", "*.md"]
+}
